@@ -1,0 +1,14 @@
+body {
+    background-image:url(halloween.jpg);
+}
+h1 {
+    color: antiquewhite;
+    top: 10%;
+    right: 50%;
+    position: absolute;
+}
+button{
+    display: block;
+    margin: auto;
+    margin-top: 200px;
+}
